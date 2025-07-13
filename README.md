@@ -37,6 +37,6 @@ Export results to a file
 Add light/dark mode toggle
 
 🧑‍💻 Author
-Developed by: [Your Name]
+Developed by: Dhruv Panchal
 🎓 For educational and learning purposes
 Feel free to fork, star, and contribute! 🙌
